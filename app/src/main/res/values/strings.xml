@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TVApp</string>
+    <string name="seriale_najpopularniejsze">Seriale | Najpopularniejsze</string>
+    <string name="wi_cej">Więcej</string>
+    <string name="mniej">Mniej</string>
+    <string name="u2022">•</string>
+    <string name="strona_internetowa">Strona internetowa</string>
+    <string name="odcinki">Odcinki</string>
+    <string name="lista_ogl_danych">Lista oglądanych</string>
+    <string name="szukaj_seriali">Szukaj Seriali</string>
+</resources>
